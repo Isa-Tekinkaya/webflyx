@@ -1,0 +1,56 @@
+[33m23c6dba[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{0}: rebase (finish): returning to refs/heads/main
+[33m23c6dba[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{1}: rebase (start): checkout a8ffce6
+[33m6ed90db[m HEAD@{2}: rebase (finish): returning to refs/heads/main
+[33m6ed90db[m HEAD@{3}: rebase (pick): test
+[33m23c6dba[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{4}: rebase (pick): H: 1st Reabase Commit
+[33ma8ffce6[m[33m ([m[1;31morigin/main[m[33m)[m HEAD@{5}: rebase (start): checkout a8ffce6
+[33m6b93693[m[33m ([m[1;32mrestore-branch[m[33m)[m HEAD@{6}: merge restore-branch: Fast-forward
+[33m6eda4d7[m HEAD@{7}: checkout: moving from restore-branch to main
+[33m6b93693[m[33m ([m[1;32mrestore-branch[m[33m)[m HEAD@{8}: checkout: moving from main to restore-branch
+[33m6eda4d7[m HEAD@{9}: rebase (finish): returning to refs/heads/main
+[33m6eda4d7[m HEAD@{10}: rebase (start): checkout 6eda4d752a5a5b8b8f38f340ec566bb5aa4a9699^
+[33ma1f5e6c[m HEAD@{11}: rebase (finish): returning to refs/heads/main
+[33ma1f5e6c[m HEAD@{12}: rebase (start): checkout 6eda4d752a5a5b8b8f38f340ec566bb5aa4a9699
+[33ma1f5e6c[m HEAD@{13}: rebase (finish): returning to refs/heads/main
+[33ma1f5e6c[m HEAD@{14}: rebase (pick): J: Update classics.csv
+[33m6eda4d7[m HEAD@{15}: rebase (start): checkout 6eda4d752a5a5b8b8f38f340ec566bb5aa4a9699
+[33m6b93693[m[33m ([m[1;32mrestore-branch[m[33m)[m HEAD@{16}: pull origin main: Merge made by the 'ort' strategy.
+[33m6eda4d7[m HEAD@{17}: commit: test
+[33ma66f634[m[33m ([m[1;31morigin/update_dune[m[33m)[m HEAD@{18}: pull origin main: updating HEAD
+[33ma66f634[m[33m ([m[1;31morigin/update_dune[m[33m)[m HEAD@{19}: pull origin main: updating HEAD
+[33ma66f634[m[33m ([m[1;31morigin/update_dune[m[33m)[m HEAD@{20}: pull origin main: updating HEAD
+[33ma66f634[m[33m ([m[1;31morigin/update_dune[m[33m)[m HEAD@{21}: merge update_dune: Fast-forward
+[33m4929b3c[m HEAD@{22}: checkout: moving from update_dune to main
+[33ma66f634[m[33m ([m[1;31morigin/update_dune[m[33m)[m HEAD@{23}: pull origin main: updating HEAD
+[33ma66f634[m[33m ([m[1;31morigin/update_dune[m[33m)[m HEAD@{24}: checkout: moving from main to update_dune
+[33m4929b3c[m HEAD@{25}: checkout: moving from update_dune to main
+[33ma66f634[m[33m ([m[1;31morigin/update_dune[m[33m)[m HEAD@{26}: reset: moving to a66f63424ebf91f3e38acdba53621e42421f69a7
+[33ma66f634[m[33m ([m[1;31morigin/update_dune[m[33m)[m HEAD@{27}: reset: moving to a66f63424ebf91f3e38acdba53621e42421f69a7
+[33m718a3d7[m HEAD@{28}: commit: J: overwrite
+[33m8081ef8[m HEAD@{29}: rebase (finish): returning to refs/heads/update_dune
+[33m8081ef8[m HEAD@{30}: rebase (pick): str
+[33ma66f634[m[33m ([m[1;31morigin/update_dune[m[33m)[m HEAD@{31}: rebase (pick): I: 2nd Reabase Commit
+[33m13886df[m HEAD@{32}: rebase (pick): H: 1st Reabase Commit
+[33m4929b3c[m HEAD@{33}: rebase (start): checkout main
+[33m5b7e13e[m HEAD@{34}: commit: str
+[33m8a66136[m HEAD@{35}: commit: I: 2nd Reabase Commit
+[33m26e0b78[m HEAD@{36}: commit: H: 1st Reabase Commit
+[33m27cff84[m HEAD@{37}: checkout: moving from main to update_dune
+[33m4929b3c[m HEAD@{38}: checkout: moving from update_dune to main
+[33m4929b3c[m HEAD@{39}: checkout: moving from main to update_dune
+[33m4929b3c[m HEAD@{40}: merge update_titles: Fast-forward
+[33m0b9d40a[m HEAD@{41}: checkout: moving from update_titles to main
+[33m4929b3c[m HEAD@{42}: commit: G: text added Benjamin
+[33m0b9d40a[m HEAD@{43}: checkout: moving from main to update_titles
+[33m0b9d40a[m HEAD@{44}: merge add_classics: Merge made by the 'ort' strategy.
+[33mc5e745c[m HEAD@{45}: commit: E: 2 parents
+[33md48d0c0[m HEAD@{46}: checkout: moving from add_classics to main
+[33m27cff84[m HEAD@{47}: commit: D: 4th msg
+[33md48d0c0[m HEAD@{48}: checkout: moving from main to add_classics
+[33md48d0c0[m HEAD@{49}: checkout: moving from add_classics to main
+[33md48d0c0[m HEAD@{50}: checkout: moving from my_new_branch to add_classics
+[33md48d0c0[m HEAD@{51}: checkout: moving from main to my_new_branch
+[33md48d0c0[m HEAD@{52}: Branch: renamed refs/heads/master to refs/heads/main
+[33md48d0c0[m HEAD@{54}: commit: C: third commit two files
+[33mc21a1ab[m HEAD@{55}: commit: B: whatever test
+[33mcc18894[m HEAD@{56}: commit (initial): A: add contents.md
